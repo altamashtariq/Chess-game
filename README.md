@@ -1,6 +1,6 @@
-# Chess Game 🎮
+# ***Chess Game 🎮***
 
-built this to practice OOP and get better at Python and also to play chess with friends in class instead of boring college lectures hahah :)
+Built this to practice OOP and get better at Python and also to play chess with friends in class instead of ***boring college lectures hahah :)***
 
 ## How to Run
 
@@ -19,26 +19,22 @@ built this to practice OOP and get better at Python and also to play chess with 
 
 ## features
 
-- 8x8 board (as chess tradition demands)
+- 8x8 board ***(as chess tradition demands)***
 - Fully movable pieces
 - Legal move validation
-- Zero A.I but will add sooooonnn [only after learning it, lol]
+- Zero A.I but will add sooooonnn ***[only after learning it, lol]***
 
 ## Built With
 
 - Python 3
 - Pygame
-- Mild overconfidence
 - Aggressive debugging
-- Questionable life choices haha
+- **Questionable life choices haha**
 
-Now it might seem like a normal boring project but even a simple hello world printed with your knowledge is better than a A.I project with zero understanding of it, also if you wanna contribute feel free to do so as the code is easy to understand and
-
- Each file has a purpose
- Unlike my sleep schedule.
+It might seem like a normal ***boring project*** but even a simple hello world printed with your knowledge is better than an A.I project with zero understanding of it's working, also if you wanna contribute feel free to do so as the code is easy to understand and EACH FILE HAS A PURPOSE, UNLIKE MY SLEEP SCHEDULE.
 
 For all the chess enthusiasts, remember that..
 
- The code is clean. The competition won’t be.
+**The code is clean. The competition won’t be.**
 
 ![Chess Game](screenshot.png)
