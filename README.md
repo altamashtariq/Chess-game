@@ -4,8 +4,6 @@ Built this to practice OOP and get better at Python and also to play chess with 
 
 ## How to Run
 
--> on your os terminal run these commands
-  
 - pip3 install pygame
 - python3 main.py
 
